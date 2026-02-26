@@ -31,6 +31,7 @@ Building regulated digital infrastructure across:
 ---
 
 **Find me**
+
 [![X](https://img.shields.io/badge/X-%40V1d0r-black?style=flat&logo=x)](https://twitter.com/V1d0r)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fv1d0r-blue?style=flat&logo=linkedin)](https://linkedin.com/in/v1d0r)
 [![Web](https://img.shields.io/badge/Web-emergentx.org-green?style=flat)](https://emergentx.org)
